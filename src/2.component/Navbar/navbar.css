@@ -1,0 +1,20 @@
+.navbar {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    background-image: url("https://s-ecom.ottenstatic.com/original/5dbb5c0061e8b137415664.jpg");
+    background-size: cover;
+  }
+
+  .col-md-12 {
+    /* padding-top: 1px; */
+    background-color: #33b5e5;
+    border: 1px solid #fff;
+    color: #fff;
+    }
+
+.list{
+    text-align: center;
+    margin-top:0.5em;
+}
